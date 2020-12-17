@@ -1,6 +1,6 @@
-# Proyecto de Programación y Métodos Numéricos 2020
 # Universidad Autónoma de Baja California 
 
+# Programación y Métodos Numéricos 2020
 Este es el proyecto final de la materia de Programación y Métodos Numéricos.  
 Contiene archivos de practicas de laboratorio.
 
